@@ -1,0 +1,13 @@
+{
+    "WellsFargo Bank": {
+      "domain": "wellsfargo.com",
+      "url": "https://www.wellsfargo.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.wellsfargo.com/checking/student/",
+      "keywords": [
+        "finance"
+      ]
+    }
+  }

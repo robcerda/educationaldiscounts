@@ -1,0 +1,13 @@
+{
+  "Private Internet Access": {
+    "domain": "privateinternetaccess.com",
+    "url": "https://www.privateinternetaccess.com",
+    "tfa": [
+      "students"
+    ],
+    "documentation": "https://www.privateinternetaccess.com/pages/student-discount",
+    "keywords": [
+      "vpn"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Levi": {
+    "domain": "levi.com",
+    "tfa": [
+      "teachers",
+      "students"
+    ],
+    "documentation": "https://www.levi.com/US/en_US/features/teachers-discount",
+    "keywords": [
+      "retail"
+    ]
+  }
+}

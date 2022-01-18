@@ -1,0 +1,13 @@
+{
+  "YouTube": {
+    "domain": "youtube.com",
+    "url": "https://www.youtube.com/",
+    "tfa": [
+      "students"
+    ],
+    "documentation": "https://www.youtube.com/premium/student",
+    "keywords": [
+      "entertainment"
+    ]
+  }
+}

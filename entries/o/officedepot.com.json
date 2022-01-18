@@ -1,0 +1,12 @@
+{
+    "Office Depot": {
+      "domain": "officedepot.com",
+      "tfa": [
+        "teachers"
+      ],
+      "documentation": "https://business.officedepot.com/specialLinks.do?ID=schoolprogs&TITLE=BSD+School+Programs&template=login",
+      "keywords": [
+        "retail"
+      ]
+    }
+  }

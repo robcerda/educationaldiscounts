@@ -1,0 +1,12 @@
+{
+    "Toms": {
+      "domain": "toms.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.toms.com/us/student-discount.html",
+      "keywords": [
+        "retail"
+      ]
+    }
+  }

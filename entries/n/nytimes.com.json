@@ -1,0 +1,12 @@
+{
+    "New York Times": {
+      "domain": "nytimes.com",
+      "tfa": [
+        "teachers"
+      ],
+      "documentation": "https://www.nytimes.com/subscription/groups/school-access",
+      "keywords": [
+        "entertainment"
+      ]
+    }
+  }

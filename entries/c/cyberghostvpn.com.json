@@ -1,0 +1,13 @@
+{
+  "CyberGhost": {
+    "domain": "cyberghostvpn.com",
+    "url": "https://www.cyberghostvpn.com",
+    "tfa": [
+      "students"
+    ],
+    "documentation": "https://www.cyberghostvpn.com/en_US/student-discount",
+    "keywords": [
+      "vpn"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Spotify": {
+    "domain": "spotify.com",
+    "tfa": [
+      "students"
+    ],
+    "documentation": "https://www.spotify.com/us/student/",
+    "keywords": [
+      "entertainment"
+    ]
+  }
+}

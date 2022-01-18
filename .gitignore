@@ -1,0 +1,29 @@
+# IDE files
+.idea/
+nbproject/
+
+# Jekyll/Ruby files
+.bundle/
+.config/
+.jekyll-metadata
+.sass-cache
+Gemfile.lock
+_site/
+vendor/
+
+# NPM files
+node_modules/
+package-lock.json
+package.json
+
+# OS files
+.DS_Store
+*.DS_Store
+*.swp
+Thumbs.db
+ehthumbs.db
+tmp/
+
+# API JSON files
+api/*
+#_data/all.json

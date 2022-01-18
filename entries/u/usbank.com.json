@@ -1,0 +1,13 @@
+{
+    "US Bank": {
+      "domain": "usbank.com",
+      "url": "https://www.usbank.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.usbank.com/bank-accounts/checking-accounts/student-checking-account.html",
+      "keywords": [
+        "finance"
+      ]
+    }
+  }

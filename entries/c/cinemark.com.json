@@ -1,0 +1,12 @@
+{
+    "Cinemark Theatres": {
+      "domain": "cinemark.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.cinemark.com/discounts/student-discount",
+      "keywords": [
+        "entertainment"
+      ]
+    }
+  }

@@ -1,0 +1,15 @@
+{
+  "T-Mobile": {
+    "domain": "t-mobile.com",
+    "url": "https://www.t-mobile.com/",
+    "tfa": [
+      "teachers",
+      "students"
+    ],
+    "documentation": "https://now.t-mobile.com/education-employee-discounts.html",
+    "keywords": [
+      "communication",
+      "utilities"
+    ]
+  }
+}

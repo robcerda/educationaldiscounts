@@ -1,0 +1,12 @@
+{
+    "Regal Cinemas": {
+      "domain": "regmovies.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.regmovies.com/static/en/us/theatre/student-pricing-locations",
+      "keywords": [
+        "entertainment"
+      ]
+    }
+  }

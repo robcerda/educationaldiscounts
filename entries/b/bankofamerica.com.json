@@ -1,0 +1,13 @@
+{
+    "Bank of America": {
+      "domain": "bankofamerica.com",
+      "url": "https://www.bankofamerica.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.bankofamerica.com/student-banking/",
+      "keywords": [
+        "finance"
+      ]
+    }
+  }

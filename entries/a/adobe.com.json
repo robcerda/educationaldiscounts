@@ -1,0 +1,14 @@
+{
+    "Adobe": {
+      "domain": "adobe.com",
+      "tfa": [
+        "teachers",
+        "students"
+      ],
+      "documentation": "https://www.adobe.com/creativecloud/buy/students.html",
+      "keywords": [
+        "software"
+      ]
+    }
+  }
+  

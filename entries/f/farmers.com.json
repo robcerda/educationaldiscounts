@@ -1,0 +1,12 @@
+{
+    "Farmers Insurance": {
+      "domain": "farmers.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.farmers.com/faq/discounts/",
+      "keywords": [
+        "utilities"
+      ]
+    }
+  }

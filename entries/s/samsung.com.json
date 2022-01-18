@@ -1,0 +1,15 @@
+{
+    "Samsung": {
+      "domain": "samsung.com",
+      "tfa": [
+        "teachers",  
+        "students"
+      ],
+      "documentation": "https://www.samsung.com/us/shop/offer-program/education/",
+      "keywords": [
+        "tech",
+        "retail"
+      ]
+    }
+  }
+  

@@ -1,0 +1,13 @@
+{
+  "Barnes &amp; Noble": {
+    "domain": "barnesandnoble.com",
+    "url": "https://www.barnesandnoble.com/",
+    "tfa": [
+      "teachers"
+    ],
+    "documentation": "https://www.barnesandnoble.com/h/bn-educators",
+    "keywords": [
+      "retail"
+    ]
+  }
+}

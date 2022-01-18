@@ -1,0 +1,14 @@
+{
+  "AT&amp;T": {
+    "domain": "att.com",
+    "tfa": [
+      "teachers",
+      "students"
+    ],
+    "documentation": "https://www.att.com/offers/discount-program/teacher/",
+    "keywords": [
+      "communication",
+      "utilities"
+    ]
+  }
+}

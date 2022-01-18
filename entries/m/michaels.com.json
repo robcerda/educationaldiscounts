@@ -1,0 +1,12 @@
+{
+  "Michaels": {
+    "domain": "michaels.com",
+    "tfa": [
+      "teachers"
+    ],
+    "documentation": "https://www.michaels.com/teacher-discount",
+    "keywords": [
+      "retail"
+    ]
+  }
+}

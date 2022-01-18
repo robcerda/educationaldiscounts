@@ -1,0 +1,15 @@
+{
+  "Best Buy": {
+    "domain": "bestbuy.com",
+    "url": "https://www.bestbuy.com/",
+    "tfa": [
+      "teachers",
+      "students"
+    ],
+    "documentation": "https://www.bestbuy.com/site/back-to-school/college-student-deals/pcmcat276200050000.c?id=pcmcat276200050000",
+    "keywords": [
+      "tech",
+      "retail"
+    ]
+  }
+}

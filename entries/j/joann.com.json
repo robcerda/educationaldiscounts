@@ -1,0 +1,12 @@
+{
+    "Jo-Ann": {
+      "domain": "joann.com",
+      "tfa": [
+        "teachers"
+      ],
+      "documentation": "https://www.joann.com/teacher-discount/",
+      "keywords": [
+        "retail"
+      ]
+    }
+  }

@@ -1,0 +1,12 @@
+{
+    "AMC Theatres": {
+      "domain": "amctheatres.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.amctheatres.com/discounts",
+      "keywords": [
+        "entertainment"
+      ]
+    }
+  }

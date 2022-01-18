@@ -1,0 +1,13 @@
+{
+    "Microsoft Office": {
+      "domain": "office.microsoft.com",
+      "tfa": [
+        "teachers",
+        "students"
+      ],
+      "documentation": "https://support.microsoft.com/en-us/topic/student-discount-for-microsoft-office-office-in-education-59d471cf-d851-a798-e9b6-68764754d496",
+      "keywords": [
+        "software"
+      ]
+    }
+  }

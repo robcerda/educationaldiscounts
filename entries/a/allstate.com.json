@@ -1,0 +1,12 @@
+{
+    "All State Insurance": {
+      "domain": "allstate.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.allstate.com/auto-insurance/car-insurance-discounts.aspx",
+      "keywords": [
+        "utilities"
+      ]
+    }
+  }

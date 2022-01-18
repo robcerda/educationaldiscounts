@@ -1,0 +1,15 @@
+{
+    "HP": {
+      "domain": "hp.com",
+      "tfa": [
+        "teachers",
+        "students"
+      ],
+      "documentation": "https://www.hp.com/us-en/shop/cv/hp-education",
+      "keywords": [
+        "tech",
+        "retail"
+      ]
+    }
+  }
+  

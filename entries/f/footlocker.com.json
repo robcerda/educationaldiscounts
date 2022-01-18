@@ -1,0 +1,12 @@
+{
+    "Foot Locker": {
+      "domain": "footlocker.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.footlocker.com/student-beans.html",
+      "keywords": [
+        "retail"
+      ]
+    }
+  }

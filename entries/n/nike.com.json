@@ -1,0 +1,12 @@
+{
+    "Nike": {
+      "domain": "nike.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.nike.com/help/a/student-discount",
+      "keywords": [
+        "retail"
+      ]
+    }
+  }

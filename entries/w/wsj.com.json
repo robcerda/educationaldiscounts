@@ -1,0 +1,13 @@
+{
+    "Wall Street Journal": {
+      "domain": "wsj.com",
+      "tfa": [
+        "teachers",
+        "students"
+      ],
+      "documentation": "https://education.wsj.com/professors/",
+      "keywords": [
+        "entertainment"
+      ]
+    }
+  }

@@ -1,0 +1,12 @@
+{
+    "Google for Education": {
+      "domain": "edu.google.com",
+      "tfa": [
+        "teachers"
+      ],
+      "documentation": "https://education.github.com/pack",
+      "keywords": [
+        "cloud"
+      ]
+    }
+  }

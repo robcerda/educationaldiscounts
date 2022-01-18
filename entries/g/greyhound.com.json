@@ -1,0 +1,12 @@
+{
+    "Greyhound": {
+      "domain": "greyhound.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.greyhound.com/en/help-and-info/ticket-info/discounts",
+      "keywords": [
+        "transportation"
+      ]
+    }
+  }

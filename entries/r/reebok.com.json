@@ -1,0 +1,12 @@
+{
+    "Reebok": {
+      "domain": "reebok.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.reebok.com/us/discount-programs",
+      "keywords": [
+        "retail"
+      ]
+    }
+  }

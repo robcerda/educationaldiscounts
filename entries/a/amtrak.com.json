@@ -1,0 +1,12 @@
+{
+    "Amtrak": {
+      "domain": "amtrak.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.amtrak.com/student-discounts",
+      "keywords": [
+        "transportation"
+      ]
+    }
+  }

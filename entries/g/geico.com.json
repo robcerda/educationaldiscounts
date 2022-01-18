@@ -1,0 +1,12 @@
+{
+    "Geico Insurance": {
+      "domain": "geico.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.geico.com/save/discounts/student-discounts/",
+      "keywords": [
+        "utilities"
+      ]
+    }
+  }

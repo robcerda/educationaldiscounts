@@ -1,0 +1,13 @@
+{
+  "Slack": {
+    "domain": "slack.com",
+    "tfa": [
+      "teachers",
+      "students"
+    ],
+    "documentation": "https://slack.com/help/articles/206646877-Apply-for-the-Slack-for-Education-discount",
+    "keywords": [
+      "communication"
+    ]
+  }
+}

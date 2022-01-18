@@ -1,0 +1,14 @@
+{
+  "GitHub": {
+    "domain": "github.com",
+    "tfa": [
+      "teachers",
+      "students"
+    ],
+    "documentation": "https://education.github.com/pack",
+    "keywords": [
+      "cloud",
+      "developer"
+    ]
+  }
+}

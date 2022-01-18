@@ -1,0 +1,21 @@
+title: Educational Discounts
+url: https://educationaldiscounts.org
+permalink: pretty
+markdown: kramdown
+twitter: _robcerda
+github: [metadata]
+social_image: https://repository-images.githubusercontent.com/17724730/63495880-b408-11e9-8cc4-03451aa4cc14
+exclude:
+  - EXCLUSION.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - README.md
+  - Gemfile
+  - Dockerfile
+  - "*.lock"
+  - ".*"
+  - vendor/
+  - scripts/
+  - tests/
+theme: null

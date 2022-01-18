@@ -1,0 +1,13 @@
+{
+    "Chase Bank": {
+      "domain": "chase.com",
+      "url": "https://www.chase.com",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.chase.com/personal/student-banking/college",
+      "keywords": [
+        "finance"
+      ]
+    }
+  }
