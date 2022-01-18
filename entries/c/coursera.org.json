@@ -1,0 +1,12 @@
+{
+    "Coursera": {
+      "domain": "coursera.org",
+      "tfa": [
+        "students"
+      ],
+      "documentation": "https://www.coursera.org/for-university-and-college-students",
+      "keywords": [
+        "education"
+      ]
+    }
+  }

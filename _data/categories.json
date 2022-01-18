@@ -15,6 +15,11 @@
     "icon": "fas fa-code"
   },
   {
+    "name": "education",
+    "title": "Education",
+    "icon": "fas fa-book"
+  },
+  {
     "name": "entertainment",
     "title": "Entertainment",
     "icon": "fas fa-play"
