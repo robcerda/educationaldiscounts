@@ -4,7 +4,7 @@ jobs:
 
   tests:
     name: Tests
-    container: robcerda/educationaldiscounts:latest
+    container: rcerda/educationaldiscounts:latest
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -42,7 +42,7 @@ jobs:
 
   build:
     name: Minimal build
-    container: robcerda/educationaldiscounts:latest
+    container: rcerda/educationaldiscounts:latest
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -79,7 +79,7 @@ jobs:
       github.ref == 'refs/heads/master' &&
       github.repository == 'robcerda/educationaldiscounts'
     needs: [ tests, build ]
-    container: robcerda/educationaldiscounts:latest
+    container: rcerda/educationaldiscounts:latest
     runs-on: ubuntu-latest
     steps:
       - uses: actions/download-artifact@v2
