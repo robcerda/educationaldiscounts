@@ -23,7 +23,3 @@ package.json
 Thumbs.db
 ehthumbs.db
 tmp/
-
-# API JSON files
-api/*
-#_data/all.json
