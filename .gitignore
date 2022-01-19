@@ -25,4 +25,4 @@ ehthumbs.db
 tmp/
 
 # API JSON files
-_data/all.json
+#_data/all.json
