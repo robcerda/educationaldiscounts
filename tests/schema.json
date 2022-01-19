@@ -33,14 +33,9 @@
           }
         },
         "documentation": {
-          "type": "array",
-          "uniqueItems": true,
-          "minItems": 1,
+          "type": "string",
           "format": "uri-reference",
-          "items": {
-            "type": "string",
-            "pattern": "^(https:|http:)"
-          } 
+          "pattern": "^(https:|http:)"
         },
         "recovery": {
           "type": "string",
