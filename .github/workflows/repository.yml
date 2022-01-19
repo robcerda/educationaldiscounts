@@ -26,8 +26,8 @@ jobs:
         run:  bundle exec ruby ./tests/validate-json.rb
       - name: Validate file extensions
         run:  tests/file-extensions.sh
-      - name: Validate Images
-        run: bundle exec ruby ./tests/validate-images.rb
+ #     - name: Validate Images
+ #       run: bundle exec ruby ./tests/validate-images.rb
       - name: Validate URL/Domain reachability
         run: bundle exec ruby ./tests/validate-urls.rb
         continue-on-error: true
