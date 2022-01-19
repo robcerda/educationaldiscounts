@@ -10,7 +10,7 @@ require 'uri'
 status = 0
 
 # Fetch created/modified files in entries/**
-diff = `git diff --name-only --diff-filter=AM origin/master...HEAD entries/`.split("\n")
+diff = `git diff --name-only --diff-filter=AM origin/main...HEAD entries/`.split("\n")
 
 def redirection
   lambda { |uri, res|
@@ -21,7 +21,7 @@ def redirection
 end
 
 def http_client
-  agent_name = '2FactorAuth/URLValidator ' \
+  agent_name = 'EducationalDiscounts/URLValidator ' \
   "(HTTPClient/#{Gem.loaded_specs['httpclient'].version} on Ruby/#{RUBY_VERSION}; +https://educationaldiscounts.org/bot)"
   from = 'educationaldiscounts.org'
   client = HTTPClient.new(nil, agent_name, from)
