@@ -4,8 +4,8 @@ permalink: pretty
 markdown: kramdown
 twitter: _robcerda
 github: [metadata]
-social_image: https://repository-images.githubusercontent.com/17724730/63495880-b408-11e9-8cc4-03451aa4cc14
-exclude:
+google_analytics: UA-172004649-1
+exclude: 
   - EXCLUSION.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
