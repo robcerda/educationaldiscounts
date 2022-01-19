@@ -24,10 +24,6 @@ jobs:
         run: echo "nameserver 1.1.1.1" > /etc/resolv.conf
       - name: Validate JSON structure
         run:  bundle exec ruby ./tests/validate-json.rb
-      - name: Validate Region codes
-        run:  bundle exec ruby ./tests/region-codes.rb
-      - name: Validate Language codes
-        run: bundle exec ruby ./tests/language-codes.rb
       - name: Validate file extensions
         run:  tests/file-extensions.sh
       - name: Validate Images
@@ -98,13 +94,8 @@ jobs:
         with:
           gpg_private_key: ${{ secrets.pgp_key }}
           passphrase: ${{ secrets.pgp_passphrase }}
-      - name: Sign API files
-        working-directory: _site
-        run: ../scripts/sign.sh ${{ secrets.pgp_passphrase }} ${{ steps.pgp.outputs.keyid }}
       - name: Minify JavaScript files
         run: ./scripts/minify-js.sh
-      - name: Build region sites
-        run: ./scripts/regions.rb
         env:
           NOKOGIRI_USE_SYSTEM_LIBRARIES: true
           PAGES_REPO_NWO:  ${{ github.repository }}
