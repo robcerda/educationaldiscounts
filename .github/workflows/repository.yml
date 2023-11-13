@@ -89,7 +89,7 @@ jobs:
           bundle install
       - name: Install GnuPG
         run: apk add --no-cache gnupg
-      - uses: crazy-max/ghaction-import-gpg@v5
+      - uses: crazy-max/ghaction-import-gpg@v6
         id: pgp
         with:
           gpg_private_key: ${{ secrets.pgp_key }}
