@@ -7,7 +7,7 @@ jobs:
     container: rcerda/educationaldiscounts:latest
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3.1.0
+      - uses: actions/checkout@v4.1.1
         with:
           fetch-depth: 0
       - name: Bundle install
@@ -41,7 +41,7 @@ jobs:
     container: rcerda/educationaldiscounts:latest
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3.1.0
+      - uses: actions/checkout@v4.1.1
       - name: Bundle install
         run: |
           bundle config set without test
